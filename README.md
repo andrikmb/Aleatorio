@@ -1,2 +1,3 @@
-# ead_unipar_ads
-Curso de Análise e Desenvolvimento de Sistemas na UNIPAR EAD
+# Aleatório
+
+Lugar para escrita genérica, ou o que me der na telha.
