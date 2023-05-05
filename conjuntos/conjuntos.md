@@ -1,3 +1,6 @@
+usar comandos em latex com <code>$$ ... $$</code>
+
+
 ABCdef $$\mathrm{ABCdef}$$
 ABCdef $$\mathit{ABCdef}$$
 ABCdef $$\mathnormal{ABCdef}$$
