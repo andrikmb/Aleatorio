@@ -1,20 +1,23 @@
-ANALISTA-TRIBUTÁRIO 
-MÓDULO I – CONHECIMENTOS BÁSICOS 
-Língua Portuguesa: Elementos de construção do texto e seu sentido: gênero do texto (literário e não literário, 
-narrativo, descritivo e argumentativo); interpretação e organização interna. Semântica: sentido e emprego dos 
-vocábulos; campos semânticos; emprego de tempos e modos dos verbos em português. Morfologia: 
-reconhecimento, emprego e sentido das classes gramaticais; processos de formação de palavras; mecanismos 
-de flexão dos nomes e verbos. Sintaxe: frase, oração e período; termos da oração; processos de coordenação 
-e subordinação; concordância nominal e verbal; transitividade e regência de nomes e verbos; padrões gerais 
-de colocação pronominal no português; mecanismos de coesão textual. Ortografia. Acentuação gráfica. 
+1. ANALISTA-TRIBUTÁRIO
+1. MÓDULO I – CONHECIMENTOS BÁSICOS
+   1. Língua Portuguesa:
+       1. Elementos de construção do texto e seu sentido: gênero do texto (literário e não literário, narrativo, descritivo e argumentativo); interpretação e organização interna.
+       1. Semântica: sentido e emprego dos vocábulos; campos semânticos; emprego de tempos e modos dos verbos em português.
+       1. Morfologia: reconhecimento, emprego e sentido das classes gramaticais; processos de formação de palavras; mecanismos de flexão dos nomes e verbos.
+       1. Sintaxe: frase, oração e período; termos da oração; processos de coordenação e subordinação; concordância nominal e verbal; transitividade e regência de nomes e verbos; padrões gerais 
+de colocação pronominal no português; mecanismos de coesão textual.
+       1. Ortografia.
+       1. Acentuação gráfica. 
 Emprego do sinal indicativo de crase. Pontuação. Reescrita de frases: substituição, deslocamento, paralelismo; 
 variação linguística: norma culta. Observação: os itens deste programa serão considerados sob o ponto de vista 
 textual, ou seja, deverão ser estudados sob o foco de sua participação na estruturação significativa dos textos.
-Língua Inglesa: Conhecimento e uso das formas contemporâneas da linguagem inglesa. 2. Compreensão e 
-interpretação de textos variados: domínio do vocabulário e da estrutura da língua, ideias principais e 
-secundárias, explícitas e implícitas, relações intratextuais e intertextuais. 3. Itens gramaticais relevantes para 
+
+   1. Língua Inglesa: Conhecimento e uso das formas contemporâneas da linguagem inglesa.
+      1. Compreensão e interpretação de textos variados: domínio do vocabulário e da estrutura da língua, ideias principais e 
+secundárias, explícitas e implícitas, relações intratextuais e intertextuais.
+      1. Itens gramaticais relevantes para 
 a compreensão dos conteúdos semânticos. Palavras e expressões equivalentes. Elementos de referência. 
-Raciocínio Lógico-Matemático e Estatística: Lógica: proposições, conectivos, equivalências lógicas, 
+1. Raciocínio Lógico-Matemático e Estatística: Lógica: proposições, conectivos, equivalências lógicas, 
 quantificadores e predicados. Conjuntos e suas operações, diagramas. Números inteiros, racionais e 
 reais e suas operações, porcentagem e juros. Proporcionalidade direta e inversa. Medidas de 
 comprimento, área, volume, massa e tempo. Estrutura lógica de relações arbitrárias entre pessoas, 
@@ -29,10 +32,15 @@ cartesiano: sistema de coordenadas, distância. Problemas de lógica e raciocín
 moda, mediana e desvio padrão. Probabilidade e distribuições de probabilidade. Inferência: estimação pontual 
 e intervalar e testes de hipóteses. Predição: abordagens; séries temporais; regressão linear simples e múltipla. 
 Regressão logística. 
-Contabilidade Geral: 1. Contabilidade. Conceito, objeto, objetivos, campo de atuação e usuários da informação 
-contábil. 2. Princípios e Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade 
-(CFC). 3. Conceitos, forma de avaliação, evidenciação, natureza, espécie e estrutura. 4. Atos e fatos 
-administrativos. 5. Livros contábeis obrigatórios e documentação contábil. 6. Variação do patrimônio líquido. 
+1. Contabilidade Geral:
+   1. Contabilidade. Conceito, objeto, objetivos, campo de atuação e usuários da informação 
+contábil.
+   1. Princípios e Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade 
+(CFC).
+   1. Conceitos, forma de avaliação, evidenciação, natureza, espécie e estrutura.
+   1. Atos e fatos 
+administrativos.
+   1. Livros contábeis obrigatórios e documentação contábil. 6. Variação do patrimônio líquido. 
 Receita, despesa, ganhos e perdas. 7. Apuração dos resultados. 8. Regimes de apuração. Caixa e competência. 
 9. Escrituração contábil. Lançamentos contábeis; contas patrimoniais, resultado. 10. Fatos contábeis. 
 Permutativos, modificativos e mistos. 11. Itens Patrimoniais. Conteúdo, conceitos, estrutura, formas de 
