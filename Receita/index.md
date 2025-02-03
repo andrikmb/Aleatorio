@@ -55,10 +55,6 @@ de avaliação. 16. Apuração do custo das mercadorias vendidas, tratamento con
 em operações de compras e vendas. 
 Administração Geral e Pública: Teoria da administração e das organizações. O processo administrativo. Funções 
 de administração: planejamento, organização, direção e controle. Papéis e habilidades do administrador. 
-33
-MINISTÉRIO DA ECONOMIA – SECRETARIA ESPECIAL 
-DA RECEITA FEDERAL DO BRASIL
-EDITAL – Nº 1/2022
 Planejamento estratégico: conceitos, princípios, etapas, níveis, métodos e ferramentas. Planejamento tático. 
 Planejamento operacional. Administração por objetivos. Organização: princípios de organização; estrutura 
 organizacional; departamentalização; centralização e descentralização. Processo decisório: tipos de decisões; 
@@ -109,10 +105,7 @@ e Big Data. Computação em nuvens. Arquitetura de Big Data. Modelos de entrega 
 Big Data. Plataformas de computação em nuvem para Big Data. Linguagens de programação para ciência de 
 dados: linguagem Python e R. Bancos de dados não relacionais: bancos de dados NoSQL; Modelos Nosql. 
 Principais SGBD’s. Soluções para Big Data. 
-34
-MINISTÉRIO DA ECONOMIA – SECRETARIA ESPECIAL 
-DA RECEITA FEDERAL DO BRASIL
-EDITAL – Nº 1/2022
+
 MÓDULO II – CONHECIMENTOS ESPECÍFICOS 
 Direito Constitucional: 1. Teoria Geral do Estado. 2. Os poderes do Estado e as respectivas funções. 3. Teoria 
 geral da Constituição. 3.1. Conceito. 3.2. Origens. 3.3. Conteúdo. 3.4. Estrutura. 3.5. Classificação. 4. 
@@ -164,10 +157,7 @@ Responsabilidade por Infrações. 18. Crédito Tributário. Conceito. 18.1. Cons
 da Exigibilidade do Crédito Tributário. Modalidades. 18.5. Extinção do Crédito Tributário. Modalidades. 19. 
 Pagamento Indevido. 20. Exclusão do Crédito Tributário. Modalidades. 21. Garantias e Privilégios do Crédito 
 Tributário. 22. Administração Tributária. 22.1. Fiscalização. 22.2. Dívida Ativa. 22.3. Certidões Negativas. 24. 
-35
-MINISTÉRIO DA ECONOMIA – SECRETARIA ESPECIAL 
-DA RECEITA FEDERAL DO BRASIL
-EDITAL – Nº 1/2022
+
 Sigilo Fiscal. 25. Processo Administrativo Fiscal (Decreto nº 70.235, de 6 de março de 1972). Direito 
 Previdenciário: 1. Aspectos teóricos e conceituais da Seguridade Social e Previdência Social. 2. Seguridade 
 Social. 2.1. Origem e evolução legislativa no Brasil. 2.2. Conceituação. 2.3. Organização e princípios 
@@ -220,10 +210,7 @@ Líquido. 8.1. Princípios e regras constitucionais aplicáveis à contribuiçã
 importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico 
 combustível - Cide-Combustíveis (Lei nº 10.336, de 19 de dezembro de 2001). 9.1. Princípios e regras 
 constitucionais aplicáveis à contribuição. 9.2. Fato gerador. 9.3. Contribuinte. 9.4. Base de cálculo. 9.5. 
-36
-MINISTÉRIO DA ECONOMIA – SECRETARIA ESPECIAL 
-DA RECEITA FEDERAL DO BRASIL
-EDITAL – Nº 1/2022
+
 Apuração. 10. Contribuição de Intervenção de Domínio Econômico destinada a financiar o Programa de 
 Estímulo à Interação Universidade-Empresa para o Apoio à Inovação (Lei nº 10.168, de 29 de dezembro de 
 2000). 10.1. Princípios e regras constitucionais aplicáveis à contribuição. 10.2. Fato gerador. 10.3. Contribuinte. 
