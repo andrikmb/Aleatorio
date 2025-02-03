@@ -1,6 +1,6 @@
 1. ANALISTA-TRIBUTÁRIO
 1. MÓDULO I – CONHECIMENTOS BÁSICOS
-   1. [Língua Portuguesa](Receita/Portugues/index.md):
+   1. [Língua Portuguesa](Portugues/index.md):
        1. Elementos de construção do texto e seu sentido: gênero do texto (literário e não literário, narrativo, descritivo e argumentativo); interpretação e organização interna.
        1. Semântica: sentido e emprego dos vocábulos; campos semânticos; emprego de tempos e modos dos verbos em português.
        1. Morfologia: reconhecimento, emprego e sentido das classes gramaticais; processos de formação de palavras; mecanismos de flexão dos nomes e verbos.
