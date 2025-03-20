@@ -17,7 +17,7 @@ textual, ou seja, deverão ser estudados sob o foco de sua participação na est
 secundárias, explícitas e implícitas, relações intratextuais e intertextuais.
       1. Itens gramaticais relevantes para 
 a compreensão dos conteúdos semânticos. Palavras e expressões equivalentes. Elementos de referência. 
-1. Raciocínio Lógico-Matemático e Estatística: Lógica: proposições, conectivos, equivalências lógicas, 
+1. [Raciocínio Lógico-Matemático e Estatística](Matematica/readme.md): Lógica: proposições, conectivos, equivalências lógicas, 
 quantificadores e predicados. Conjuntos e suas operações, diagramas. Números inteiros, racionais e 
 reais e suas operações, porcentagem e juros. Proporcionalidade direta e inversa. Medidas de 
 comprimento, área, volume, massa e tempo. Estrutura lógica de relações arbitrárias entre pessoas, 
