@@ -1,6 +1,6 @@
 1. ANALISTA-TRIBUTÁRIO
 1. MÓDULO I – CONHECIMENTOS BÁSICOS
-   1. [Língua Portuguesa](Portugues/index.md):
+   1. [Língua Portuguesa](Portugues/readme.md):
        1. Elementos de construção do texto e seu sentido: gênero do texto (literário e não literário, narrativo, descritivo e argumentativo); interpretação e organização interna.
        1. Semântica: sentido e emprego dos vocábulos; campos semânticos; emprego de tempos e modos dos verbos em português.
        1. Morfologia: reconhecimento, emprego e sentido das classes gramaticais; processos de formação de palavras; mecanismos de flexão dos nomes e verbos.
@@ -12,7 +12,7 @@ Emprego do sinal indicativo de crase. Pontuação. Reescrita de frases: substitu
 variação linguística: norma culta. Observação: os itens deste programa serão considerados sob o ponto de vista 
 textual, ou seja, deverão ser estudados sob o foco de sua participação na estruturação significativa dos textos.
 
-   1. [Língua Inglesa](Ingles/index.md): Conhecimento e uso das formas contemporâneas da linguagem inglesa.
+   1. [Língua Inglesa](Ingles/readme.md): Conhecimento e uso das formas contemporâneas da linguagem inglesa.
       1. Compreensão e interpretação de textos variados: domínio do vocabulário e da estrutura da língua, ideias principais e 
 secundárias, explícitas e implícitas, relações intratextuais e intertextuais.
       1. Itens gramaticais relevantes para 
