@@ -15,6 +15,11 @@ $A=\lbrace2, 4, 6, 8, 10, 12\rbrace$
 
 $B=\lbrace1, 4, 9, 16\rbrace$
 
+$B=\lbrace2, 10\rbrace$
+
+$A \cup B = \lbrace1, 2, 4, 6, 8, 9, 10, 12, 16\rbrace$ 
+
+$A \cap B =\lbrace4\rbrace$
 
 ------
 
