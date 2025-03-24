@@ -21,6 +21,12 @@ $A \cup B = \lbrace1, 2, 4, 6, 8, 9, 10, 12, 16\rbrace$
 
 $A \cap B =\lbrace4\rbrace$
 
+$B \cup C =\lbrace1, 2, 4, 9, 10, 16\rbrace$
+
+$B \cap C =\lbrace\emptyset\rbrace$
+
+*** $nnn$ ***
+
 ------
 
 Quando $a \ne 0$, então existe duas soluções para $(ax^2 + bx + c = 0)$ e elas são:
