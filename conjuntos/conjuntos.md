@@ -1,14 +1,14 @@
 # Conjuntos
 ccc
 
-\bigboxbackslash 
+$$ \[ \boxed{c_i = \sum_j A_{ij}} \] $$
 
-$\\{ x \in R | x^2 \\} $
+$$ \\{ x \in R | x^2 \\} $$
 
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
 
 $$
-\begin{equation}
+\begin{equation} \label{emc2}
    E = mc^2
 \end{equation}$$
 
