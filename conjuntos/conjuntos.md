@@ -8,7 +8,7 @@ $$ \\{ x \in R | x^2 \\} $$
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
 
 $$
-\begin{equation} \label{emc2}
+\begin{equation}
    E = mc^2
 \end{equation}$$
 
