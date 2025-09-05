@@ -5,6 +5,7 @@
 # Números reais, Funções e gráficos
 ##  Números reais e desigualdades
 
+
 ## Adição e multiplicação
 $a+b$ e $a.b$, ou $ab$
 
