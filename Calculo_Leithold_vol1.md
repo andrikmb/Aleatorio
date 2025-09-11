@@ -5,6 +5,8 @@
 # Números reais, Funções e gráficos
 ##  Números reais e desigualdades
 
+O sistema numérico real consiste em um conjunto de elementos
+
 
 ## Adição e multiplicação
 $a+b$ e $a.b$, ou $ab$
