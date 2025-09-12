@@ -5,9 +5,9 @@
 # Números reais, Funções e gráficos
 ##  Números reais e desigualdades
 
-O sistema numérico real consiste em um conjunto de elementos
+O **sistema numérico real** consiste em um conjunto de elementos chamados de **numeros reais** e duas operações denominadas **adição** e **multiplicação**, denotadas pelos símbolos $+$ e $.$, respectivamente. Se $a$ e $b$ forem elementos do conjunto $R$
 
-BBB
+
 ## Adição e multiplicação
 $a+b$ e $a.b$, ou $ab$
 
