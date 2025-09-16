@@ -1,11 +1,12 @@
 
 <img width="685" height="914" alt="image" src="https://github.com/user-attachments/assets/1ff16ef9-c8bc-4dd6-b04a-c136dbe43cb7" />
+$\\usepackage{amsmath}$
 
 
 # Números reais, Funções e gráficos
 ##  Números reais e desigualdades
 
-O **sistema numérico real** consiste em um conjunto de elementos chamados de **numeros reais** e duas operações denominadas **adição** e **multiplicação**, denotadas pelos símbolos $+$ e $.$, respectivamente. Se $a$ e $b$ forem elementos do conjunto $R$ ,$|R$  $\\mathbb{R}$
+O **sistema numérico real** consiste em um conjunto de elementos chamados de **numeros reais** e duas operações denominadas **adição** e **multiplicação**, denotadas pelos símbolos $+$ e $.$, respectivamente. Se $a$ e $b$ forem elementos do conjunto $\\mathbb{R}$
 
 
 ## Adição e multiplicação
