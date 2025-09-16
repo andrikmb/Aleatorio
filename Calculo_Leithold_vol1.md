@@ -6,7 +6,15 @@ $\\usepackage{amsmath}$
 # Números reais, Funções e gráficos
 ##  Números reais e desigualdades
 
-O **sistema numérico real** consiste em um conjunto de elementos chamados de **numeros reais** e duas operações denominadas **adição** e **multiplicação**, denotadas pelos símbolos $+$ e $.$, respectivamente. Se $a$ e $b$ forem elementos do conjunto $\\mathbb{R}$
+O **sistema numérico real** consiste em um conjunto de elementos chamados de **numeros reais** e duas operações denominadas **adição** e **multiplicação**, denotadas pelos símbolos $+$ e $.$, respectivamente. Se $a$ e $b$ forem elementos do conjunto $\\mathbb{R}$, $a+b$ denotará a **soma** de $a$ e $b$, e $a.b$, ou $ab$ denotará o seu **produto**. A operação de subtração é definida pela igualdade
+
+$a-b = a+(-b)$
+
+onde $-b$ denotao **negativo** de $b$, tal que $b+(-b)=0$. A operação de divisão é definida pela igualdade
+
+$a/b=a.b^{-1}$   $b\ne0$
+
+onde $b^{-1}$ denota recíproco de $b$, tal que $b.b^{-1}=1$.
 
 
 ## Adição e multiplicação
