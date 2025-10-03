@@ -4,4 +4,36 @@
 
 proposições, conectivos, equivalências lógicas, quantificadores e predicados. 
 
-Conjuntos e suas operações, diagramas. Números inteiros, racionais e reais e suas operações, porcentagem e juros. Proporcionalidade direta e inversa. Medidas de comprimento, área, volume, massa e tempo. Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios; dedução de novas informações das relações fornecidas e avaliação das condições usadas para estabelecer a estrutura daquelas relações. Compreensão e análise da lógica de uma situação, utilizando as funções intelectuais: raciocínio verbal, raciocínio matemático, raciocínio sequencial, orientação espacial e temporal, formação de conceitos, discriminação de elementos. Compreensão de dados apresentados em gráficos e tabelas. Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais. Problemas de contagem e noções de probabilidade. Geometria básica: ângulos, triângulos, polígonos, distâncias, proporcionalidade, perímetro e área. Plano cartesiano: sistema de coordenadas, distância. Problemas de lógica e raciocínio. Estatística descritiva. Média, moda, mediana e desvio padrão. Probabilidade e distribuições de probabilidade. Inferência: estimação pontual e intervalar e testes de hipóteses. Predição: abordagens; séries temporais; regressão linear simples e múltipla. Regressão logística.
+Conjuntos e suas operações, diagramas. 
+
+Números inteiros, racionais e reais e suas operações, porcentagem e juros. 
+
+Proporcionalidade direta e inversa. 
+
+Medidas de comprimento, área, volume, massa e tempo. 
+
+Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios; dedução de novas informações das relações fornecidas e avaliação das condições usadas para estabelecer a estrutura daquelas relações. 
+
+Compreensão e análise da lógica de uma situação, utilizando as funções intelectuais: raciocínio verbal, raciocínio matemático, raciocínio sequencial, orientação espacial e temporal, formação de conceitos, discriminação de elementos. Compreensão de dados apresentados em gráficos e tabelas. 
+
+Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais. 
+
+Problemas de contagem e noções de probabilidade. 
+
+Geometria básica: ângulos, triângulos, polígonos, distâncias, proporcionalidade, perímetro e área. 
+
+Plano cartesiano: sistema de coordenadas, distância. 
+
+Problemas de lógica e raciocínio. 
+
+Estatística descritiva. 
+
+Média, moda, mediana e desvio padrão. 
+
+Probabilidade e distribuições de probabilidade. 
+
+Inferência: estimação pontual e intervalar e testes de hipóteses. 
+
+Predição: abordagens; séries temporais; regressão linear simples e múltipla. 
+
+Regressão logística.
