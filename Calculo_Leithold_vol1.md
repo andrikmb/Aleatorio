@@ -42,7 +42,7 @@ $B \cup C =\lbrace1, 2, 4, 9, 10, 16\rbrace$
 
 $B \cap C =\lbrace\emptyset\rbrace$
 
-*** $nnn$ ***
+*** $ nnn $ ***
 
 ------
 
