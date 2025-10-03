@@ -1,6 +1,6 @@
 
 <img width="685" height="914" alt="image" src="https://github.com/user-attachments/assets/1ff16ef9-c8bc-4dd6-b04a-c136dbe43cb7" />
-$\\usepackage{amsmath}$
+
 
 
 # Números reais, Funções e gráficos
