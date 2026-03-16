@@ -1,4 +1,6 @@
 # Conjuntos
+Os conjuntos podem ser entendidos como um agrupamento de itens semelhantes, separados de acordo com uma, ou mais caracteristicas.
+
 ccc
 
 $$ \[ \boxed{c_i = \sum_j A_{ij}} \] $$
