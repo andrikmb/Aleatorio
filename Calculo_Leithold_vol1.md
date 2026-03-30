@@ -56,4 +56,5 @@ como colocar figuras geometricas???  talvez com geogebra seja possivel!
 
 1. $5x+2 > x-6$
 2. $-x < 5+3x$
-3. $ {3 \over 2}X$
+3. ${3 \over 2}X$
+4. $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
