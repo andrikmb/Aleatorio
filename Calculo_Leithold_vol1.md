@@ -54,5 +54,6 @@ como colocar figuras geometricas???  talvez com geogebra seja possivel!
 
 ## Exercicios 1.1
 
-1- $5x+2 > x-6$
-2- $-x < 5+3x$
+1. $5x+2 > x-6$
+2. $-x < 5+3x$
+3. $ {3 \over 2}X$
