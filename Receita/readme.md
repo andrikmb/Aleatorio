@@ -7,10 +7,16 @@
        1. Sintaxe: frase, oração e período; termos da oração; processos de coordenação e subordinação; concordância nominal e verbal; transitividade e regência de nomes e verbos; padrões gerais 
 de colocação pronominal no português; mecanismos de coesão textual.
        1. Ortografia.
-       1. Acentuação gráfica. 
-Emprego do sinal indicativo de crase. Pontuação. Reescrita de frases: substituição, deslocamento, paralelismo; 
-variação linguística: norma culta. Observação: os itens deste programa serão considerados sob o ponto de vista 
-textual, ou seja, deverão ser estudados sob o foco de sua participação na estruturação significativa dos textos.
+       1. Acentuação gráfica.
+       1. Emprego do sinal indicativo de crase.
+       1. Pontuação.
+       1. Reescrita de frases:
+          1. substituição,
+          1. deslocamento,
+          1. paralelismo;
+          1. variação linguística: norma culta.
+
+Observação: os itens deste programa serão considerados sob o ponto de vista textual, ou seja, deverão ser estudados sob o foco de sua participação na estruturação significativa dos textos.
 
    1. [Língua Inglesa](Ingles/readme.md): Conhecimento e uso das formas contemporâneas da linguagem inglesa.
       1. Compreensão e interpretação de textos variados: domínio do vocabulário e da estrutura da língua, ideias principais e 
