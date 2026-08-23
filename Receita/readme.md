@@ -52,70 +52,96 @@ secundárias, explícitas e implícitas, relações intratextuais e intertextuai
    18. Predição: abordagens; séries temporais; regressão linear simples e múltipla.
    19. Regressão logística.
       
-1. Contabilidade Geral:
-   1. Contabilidade. Conceito, objeto, objetivos, campo de atuação e usuários da informação 
-contábil.
-   1. Princípios e Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade 
-(CFC).
+1. [Contabilidade Geral](Contabilidade/readme.md):
+   1. Contabilidade. Conceito, objeto, objetivos, campo de atuação e usuários da informação contábil.
+   1. Princípios e Normas Brasileiras de Contabilidade emanadas pelo Conselho Federal de Contabilidade (CFC).
    1. Conceitos, forma de avaliação, evidenciação, natureza, espécie e estrutura.
-   1. Atos e fatos 
-administrativos.
-   1. Livros contábeis obrigatórios e documentação contábil. 6. Variação do patrimônio líquido. 
-Receita, despesa, ganhos e perdas. 7. Apuração dos resultados. 8. Regimes de apuração. Caixa e competência. 
-9. Escrituração contábil. Lançamentos contábeis; contas patrimoniais, resultado. 10. Fatos contábeis. 
-Permutativos, modificativos e mistos. 11. Itens Patrimoniais. Conteúdo, conceitos, estrutura, formas de 
-avaliação e classificação dos itens patrimoniais do ativo, do passivo e do patrimônio líquido. 12. Demonstrações 
-contábeis. Balanço patrimonial, demonstração do resultado do exercício, demonstração de lucros ou prejuízos 
-acumulados, demonstração das mutações do patrimônio líquido, demonstração dos fluxos de caixa e 
-demonstração do valor adicionado. 13. Notas explicativas às demonstrações contábeis. Conteúdo, forma de 
-apresentação e exigências legais de informações. 14. Ajustes, classificações e avaliações dos itens patrimoniais 
-exigidos pelas novas práticas contábeis adotadas no Brasil trazidas pela Lei Federal nº 11.638/07 e suas 
-alterações e Lei Federal nº 11.941/09 e suas alterações. 15. Estoques. Tipos de inventários, critérios e métodos 
-de avaliação. 16. Apuração do custo das mercadorias vendidas, tratamento contábil dos tributos incidentes 
-em operações de compras e vendas. 
-Administração Geral e Pública: Teoria da administração e das organizações. O processo administrativo. Funções 
-de administração: planejamento, organização, direção e controle. Papéis e habilidades do administrador. 
-Planejamento estratégico: conceitos, princípios, etapas, níveis, métodos e ferramentas. Planejamento tático. 
-Planejamento operacional. Administração por objetivos. Organização: princípios de organização; estrutura 
-organizacional; departamentalização; centralização e descentralização. Processo decisório: tipos de decisões; 
-decisão racional; heurísticas; ferramentas de apoio à decisão. Comportamento organizacional: cultura 
-organizacional; motivação; liderança; comunicação; equipes de trabalho. Controle: tipos de controle; sistemas 
-de controle. Balanced scorecard. Gestão de pessoas: evolução; conceitos básicos; abordagem estratégica; 
-indicadores de gestão de pessoas. Recrutamento e seleção de pessoas: visão geral e conceitos básicos; relação 
-com os demais processos de gestão de pessoas; recrutamento interno e externo; técnicas de recrutamento e 
-seleção. Análise e descrição de cargos. Treinamento e desenvolvimento: visão geral e conceitos básicos; 
-relação com os demais processos de gestão de pessoas; métodos; avaliação de programas de treinamento e 
-desenvolvimento. Gestão do desempenho: visão geral e conceitos básicos; relação com os demais processos 
-de gestão de pessoas; métodos. Gestão por competências. Gestão da qualidade e modelo de excelência 
-gerencial: principais teóricos e suas contribuições para a gestão da qualidade; ferramentas de gestão da 
-qualidade. Gestão de projetos: modelos, etapas, elaboração, técnicas de análise e avaliação de projetos. 
-Gestão de processos. Conceitos da abordagem por processos. Técnicas de mapeamento, análise e melhoria 
-de processos. Noções de estatística aplicada ao controle e à melhoria de processos. BPM. Administração 
-Financeira. Indicadores de Desempenho. Tipo. Variáveis. Princípios gerais de alavancagem operacional e 
-financeira. Planejamento financeiro de curto e longo prazo. Conceitos básicos de análise de balanços e 
-demonstrações financeiras. As reformas administrativas e a redefinição do papel do Estado; reforma do serviço 
-civil (mérito, flexibilidade e responsabilização) e reforma do aparelho do Estado. Administração Pública: do 
-modelo racional-legal ao paradigma pós-burocrático; o Estado oligárquico e patrimonial, o Estado autoritário 
-e burocrático, o Estado do bem-estar, o Estado regulador. Processos participativos de gestão pública: 
-conselhos de gestão, orçamento participativo, parceria entre governo e sociedade. Governo eletrônico; 
-transparência da administração pública; controle social e cidadania; accountability. Gestão por resultados na 
-produção de serviços públicos. Comunicação na gestão pública e gestão de redes organizacionais. 
-Administração de pessoal. Administração de compras e materiais: processos de compras governamentais e 
-gerenciamento de materiais e estoques. Sustentabilidade das contratações. Mudanças institucionais: 
-conselhos, organizações sociais, organização da sociedade civil de interesse público (OSCIP), agência 
-reguladora, agência executiva, consórcios públicos. Conceitos básicos de planejamento. Aspectos 
-administrativos, técnicos, econômicos e financeiros. Formulação de programas e projetos. Avaliação de 
-programas e projetos. Tipos de avaliação. Análise custo benefício e análise custo-efetividade. Governança 
-Pública. Conceitos fundamentais. Princípios, diretrizes e níveis de análise. Sistema de governança. Práticas de 
-governança. Gestão de Riscos: princípios, objetos, técnicas, modelos nacionais e internacionais, integração ao 
-planejamento. Processo de Gestão de Riscos: comunicação, consulta, contextualização, identificação, análise, 
-tratamento, monitoramento e retroalimentação. Boas práticas de gestão de Riscos. Processo de formulação e 
-desenvolvimento de políticas: construção de agendas, formulação de políticas, implementação de políticas, 
-financiamento de políticas públicas, indicadores de desempenho de políticas públicas. As políticas públicas no 
-Estado brasileiro contemporâneo; descentralização e democracia; participação, atores sociais e controle 
-social; gestão local, cidadania e equidade social. Planejamento e avaliação nas políticas públicas. Lei Federal 
-nº 12.527/2011 e suas alterações (Lei de Acesso à Informação). Lei Complementar nº 131/2009 (Lei da 
-Transparência). 
+   1. Atos e fatos administrativos.
+   1. Livros contábeis obrigatórios e documentação contábil. 
+   1. Variação do patrimônio líquido.
+   1. Receita, despesa, ganhos e perdas.
+   1. Apuração dos resultados.
+   2. Regimes de apuração.
+   3. Caixa e competência.
+   4. Escrituração contábil.
+   5. Lançamentos contábeis; contas patrimoniais, resultado.
+   6. Fatos contábeis.
+   7. Permutativos, modificativos e mistos.
+   8. Itens Patrimoniais. Conteúdo, conceitos, estrutura, formas de avaliação e classificação dos itens patrimoniais do ativo, do passivo e do patrimônio líquido.
+   9. Demonstrações contábeis.
+   10. Balanço patrimonial, demonstração do resultado do exercício, demonstração de lucros ou prejuízos acumulados, demonstração das mutações do patrimônio líquido, demonstração dos fluxos de caixa e demonstração do valor adicionado.
+   11. Notas explicativas às demonstrações contábeis.
+   12. Conteúdo, forma de apresentação e exigências legais de informações.
+   13. Ajustes, classificações e avaliações dos itens patrimoniais exigidos pelas novas práticas contábeis adotadas no Brasil trazidas pela Lei Federal nº 11.638/07 e suas alterações e Lei Federal nº 11.941/09 e suas alterações.
+   14. Estoques. Tipos de inventários, critérios e métodos de avaliação.
+   15. Apuração do custo das mercadorias vendidas, tratamento contábil dos tributos incidentes em operações de compras e vendas.
+  
+1. Administração Geral e Pública:
+   1. Teoria da administração e das organizações.
+   1. O processo administrativo.
+   1. Funções de administração: planejamento, organização, direção e controle.
+   1. Papéis e habilidades do administrador.
+   1. Planejamento estratégico: conceitos, princípios, etapas, níveis, métodos e ferramentas.
+   1. Planejamento tático.
+   1. Planejamento operacional.
+   1. Administração por objetivos.
+   10. Organização: princípios de organização; estrutura organizacional; departamentalização; centralização e descentralização.
+   11. Processo decisório: tipos de decisões; decisão racional; heurísticas; ferramentas de apoio à decisão.
+   12. Comportamento organizacional: cultura organizacional; motivação; liderança; comunicação; equipes de trabalho.
+   13. Controle: tipos de controle; sistemas de controle.
+   14. Balanced scorecard.
+   15. Gestão de pessoas: evolução; conceitos básicos; abordagem estratégica; indicadores de gestão de pessoas.
+   16. Recrutamento e seleção de pessoas: visão geral e conceitos básicos; relação com os demais processos de gestão de pessoas; recrutamento interno e externo; técnicas de recrutamento e seleção. Análise e descrição de cargos.
+   17. Treinamento e desenvolvimento: visão geral e conceitos básicos; relação com os demais processos de gestão de pessoas; métodos; avaliação de programas de treinamento e desenvolvimento.
+   18. Gestão do desempenho: visão geral e conceitos básicos; relação com os demais processos de gestão de pessoas; métodos.
+   19. Gestão por competências. Gestão da qualidade e modelo de excelência gerencial: principais teóricos e suas contribuições para a gestão da qualidade; ferramentas de gestão da qualidade. Gestão de projetos: modelos, etapas, elaboração, técnicas de análise e avaliação de projetos.
+   20. Gestão de processos.
+   21. Conceitos da abordagem por processos.
+   22. Técnicas de mapeamento, análise e melhoria de processos.
+   23. Noções de estatística aplicada ao controle e à melhoria de processos.
+   24. BPM.
+   25. Administração Financeira.
+   26. Indicadores de Desempenho.
+      1. Tipo.
+      1. Variáveis.
+   27. Princípios gerais de alavancagem operacional e financeira.
+   28. Planejamento financeiro de curto e longo prazo.
+   29. Conceitos básicos de análise de balanços e demonstrações financeiras.
+   30. As reformas administrativas e a redefinição do papel do Estado; reforma do serviço civil (mérito, flexibilidade e responsabilização) e reforma do aparelho do Estado.
+   31. Administração Pública: do modelo racional-legal ao paradigma pós-burocrático; o Estado oligárquico e patrimonial, o Estado autoritário e burocrático, o Estado do bem-estar, o Estado regulador.
+   32. Processos participativos de gestão pública: conselhos de gestão, orçamento participativo, parceria entre governo e sociedade.
+   33. Governo eletrônico; transparência da administração pública; controle social e cidadania; accountability.
+   34. Gestão por resultados na produção de serviços públicos.
+   35. Comunicação na gestão pública e gestão de redes organizacionais.
+   36. Administração de pessoal.
+   37. Administração de compras e materiais: processos de compras governamentais e gerenciamento de materiais e estoques.
+   38. Sustentabilidade das contratações.
+   39. Mudanças institucionais: conselhos, organizações sociais, organização da sociedade civil de interesse público (OSCIP), agência reguladora, agência executiva, consórcios públicos.
+   40. Conceitos básicos de planejamento.
+   41. Aspectos administrativos, técnicos, econômicos e financeiros.
+   42. Formulação de programas e projetos.
+   43. Avaliação de programas e projetos.
+   44. Tipos de avaliação.
+   45. Análise custo benefício e análise custo-efetividade.
+   46. Governança Pública.
+      1. Conceitos fundamentais.
+      2. Princípios, diretrizes e níveis de análise.
+      3. Sistema de governança.
+      4. Práticas de governança.
+   1. Gestão de Riscos: princípios, objetos, técnicas, modelos nacionais e internacionais, integração ao planejamento. Processo de Gestão de Riscos: comunicação, consulta, contextualização, identificação, análise, 
+tratamento, monitoramento e retroalimentação.
+   1. Boas práticas de gestão de Riscos.
+   2. Processo de formulação e desenvolvimento de políticas:
+      1. construção de agendas,
+      2. formulação de políticas,
+      3. implementação de políticas,
+      4. financiamento de políticas públicas,
+      5. indicadores de desempenho de políticas públicas.
+      6. As políticas públicas no Estado brasileiro contemporâneo; descentralização e democracia; participação, atores sociais e controle social; gestão local, cidadania e equidade social.
+      7. Planejamento e avaliação nas políticas públicas.
+   1. Lei Federal nº 12.527/2011 e suas alterações (Lei de Acesso à Informação).
+   2. Lei Complementar nº 131/2009 (Lei da Transparência).
+
 Fluência em dados: conceitos, atributos, métricas, transformação de Dados. Análise de dados. Agrupamentos. 
 Tendências. Projeções. Conceitos de Analytics. Aprendizado de Máquina. Inteligência Artificial. Processamento 
 de Linguagem Natural. Governança de Dados: conceito, tipos (centralizada, compartilhada e colegiada).
@@ -127,6 +153,7 @@ dados: linguagem Python e R. Bancos de dados não relacionais: bancos de dados N
 Principais SGBD’s. Soluções para Big Data. 
 
 MÓDULO II – CONHECIMENTOS ESPECÍFICOS 
+
 Direito Constitucional: 1. Teoria Geral do Estado. 2. Os poderes do Estado e as respectivas funções. 3. Teoria 
 geral da Constituição. 3.1. Conceito. 3.2. Origens. 3.3. Conteúdo. 3.4. Estrutura. 3.5. Classificação. 4. 
 Supremacia da Constituição. 5. Tipos de Constituição. 6. Poder constituinte. 7. Os princípios constitucionais. 8. 
